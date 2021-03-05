@@ -12,7 +12,7 @@ dependencies:
   ansicolor: ^1.1.0
   args: ^1.4.4
   code_checker: '>=0.3.6 <0.3.7'
-  crypto: ^2.0.6
+  crypto: ^3.0.0
   glob: ^1.1.7
   html: '>=0.13.4 <1.0.0'
   meta: ^1.1.6
