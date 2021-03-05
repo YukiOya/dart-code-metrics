@@ -13,7 +13,7 @@ dependencies:
   args: ^1.4.4
   code_checker: '>=0.3.6 <0.3.7'
   crypto: ^3.0.0
-  glob: ^1.1.7
+  glob: ^2.0.0
   html: '>=0.13.4 <1.0.0'
   meta: ^1.1.6
   path: ^1.6.2
