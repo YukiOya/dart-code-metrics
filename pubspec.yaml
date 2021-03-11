@@ -19,7 +19,7 @@ dependencies:
   path: ^1.6.2
   quiver: ^3.0.0-nullsafety
   source_span: ^1.4.1
-  yaml: ^3.1.0
+  yaml: ^2.2.0
 
 dev_dependencies:
   coverage: ^0.14.0
